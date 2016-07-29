@@ -14,7 +14,7 @@ public class pitcher extends player implements Serializable {
 	private float strikeOutPerNine;
 	private float baseOnBallsOutPerNine;
 	private float homeRunPerNine;
-	
+	//
 	public pitcher(String playName,
 			  String teamName,
 			  POSITION_INFO position,

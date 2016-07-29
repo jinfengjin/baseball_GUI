@@ -35,9 +35,7 @@ public class playerMenu {
 			player_msgCnt.printPlayer();
 			break;
 
-		case PLAYER_COMPARE :
-			player_msgCnt.comparePlayer();
-			break;
+	
 			
 		case PLAYER_DELETE :
 			player_msgCnt.deletePlayer();
@@ -58,8 +56,7 @@ public class playerMenu {
 		System.out.println("************************************");
 		System.out.println("1. 선수 추가(텍스트 파일에서 불러오기).");
 		System.out.println("2. 선수 정보 출력.");
-		System.out.println("3. 선수 정보 비교.");
-		System.out.println("4. 선수 정보 삭제.");	
+		System.out.println("3. 선수 정보 삭제.");	
 		System.out.println("0. 상위 메뉴로.");		
 		System.out.println("************************************");
 		System.out.printf("메뉴 선택 : ");

@@ -94,7 +94,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("투수의 정보입니다.");
 			// NO#선수명#팀명#포지션#승#패#세이브#홀드#블론#경기#선발#이닝#삼진#볼넷#홈런
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 
 			for(i=0; i<playerNum; i++){
@@ -107,7 +107,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("타자의 정보입니다.");
 			//NO#선수명#팀명#포지션#경기#타석#타수#안타#홈런#득점#타점#볼넷#삼진#도루
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 			for(i=0; i<playerNum; i++){
 				if(players[i].getTeamName().equals("두산")){
@@ -125,7 +125,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("투수의 정보입니다.");
 			// NO#선수명#팀명#포지션#승#패#세이브#홀드#블론#경기#선발#이닝#삼진#볼넷#홈런
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 
 			for(i=0; i<playerNum; i++){
@@ -138,7 +138,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("타자의 정보입니다.");
 			//NO#선수명#팀명#포지션#경기#타석#타수#안타#홈런#득점#타점#볼넷#삼진#도루
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 			for(i=0; i<playerNum; i++){
 				if(players[i].getTeamName().equals("NC")){
@@ -154,7 +154,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("투수의 정보입니다.");
 			// NO#선수명#팀명#포지션#승#패#세이브#홀드#블론#경기#선발#이닝#삼진#볼넷#홈런
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 
 			for(i=0; i<playerNum; i++){
@@ -167,7 +167,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("타자의 정보입니다.");
 			//NO#선수명#팀명#포지션#경기#타석#타수#안타#홈런#득점#타점#볼넷#삼진#도루
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 			for(i=0; i<playerNum; i++){
 				if(players[i].getTeamName().equals("넥센")){
@@ -184,7 +184,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("투수의 정보입니다.");
 			// NO#선수명#팀명#포지션#승#패#세이브#홀드#블론#경기#선발#이닝#삼진#볼넷#홈런
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 
 			for(i=0; i<playerNum; i++){
@@ -197,7 +197,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("타자의 정보입니다.");
 			//NO#선수명#팀명#포지션#경기#타석#타수#안타#홈런#득점#타점#볼넷#삼진#도루
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 			for(i=0; i<playerNum; i++){
 				if(players[i].getTeamName().equals("SK")){
@@ -214,7 +214,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("투수의 정보입니다.");
 			// NO#선수명#팀명#포지션#승#패#세이브#홀드#블론#경기#선발#이닝#삼진#볼넷#홈런
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 
 			for(i=0; i<playerNum; i++){
@@ -227,7 +227,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("타자의 정보입니다.");
 			//NO#선수명#팀명#포지션#경기#타석#타수#안타#홈런#득점#타점#볼넷#삼진#도루
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 			for(i=0; i<playerNum; i++){
 				if(players[i].getTeamName().equals("롯데")){
@@ -244,7 +244,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("투수의 정보입니다.");
 			// NO#선수명#팀명#포지션#승#패#세이브#홀드#블론#경기#선발#이닝#삼진#볼넷#홈런
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 
 			for(i=0; i<playerNum; i++){
@@ -257,7 +257,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("타자의 정보입니다.");
 			//NO#선수명#팀명#포지션#경기#타석#타수#안타#홈런#득점#타점#볼넷#삼진#도루
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 			for(i=0; i<playerNum; i++){
 				if(players[i].getTeamName().equals("LG")){
@@ -272,7 +272,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("투수의 정보입니다.");
 			// NO#선수명#팀명#포지션#승#패#세이브#홀드#블론#경기#선발#이닝#삼진#볼넷#홈런
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 
 			for(i=0; i<playerNum; i++){
@@ -285,7 +285,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("타자의 정보입니다.");
 			//NO#선수명#팀명#포지션#경기#타석#타수#안타#홈런#득점#타점#볼넷#삼진#도루
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 			for(i=0; i<playerNum; i++){
 				if(players[i].getTeamName().equals("KIA")){
@@ -300,7 +300,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("투수의 정보입니다.");
 			// NO#선수명#팀명#포지션#승#패#세이브#홀드#블론#경기#선발#이닝#삼진#볼넷#홈런
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 
 			for(i=0; i<playerNum; i++){
@@ -313,7 +313,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("타자의 정보입니다.");
 			//NO#선수명#팀명#포지션#경기#타석#타수#안타#홈런#득점#타점#볼넷#삼진#도루
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 			for(i=0; i<playerNum; i++){
 				if(players[i].getTeamName().equals("KT")){
@@ -328,7 +328,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("투수의 정보입니다.");
 			// NO#선수명#팀명#포지션#승#패#세이브#홀드#블론#경기#선발#이닝#삼진#볼넷#홈런
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 
 			for(i=0; i<playerNum; i++){
@@ -341,7 +341,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("타자의 정보입니다.");
 			//NO#선수명#팀명#포지션#경기#타석#타수#안타#홈런#득점#타점#볼넷#삼진#도루
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 			for(i=0; i<playerNum; i++){
 				if(players[i].getTeamName().equals("삼성")){
@@ -356,7 +356,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("투수의 정보입니다.");
 			// NO#선수명#팀명#포지션#승#패#세이브#홀드#블론#경기#선발#이닝#삼진#볼넷#홈런
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 
 			for(i=0; i<playerNum; i++){
@@ -369,7 +369,7 @@ public class player_msgControl implements player_msgControlInterface {
 			System.out.println("타자의 정보입니다.");
 			//NO#선수명#팀명#포지션#경기#타석#타수#안타#홈런#득점#타점#볼넷#삼진#도루
 			System.out.println("------------------------------------------------------------------------------------------------------");
-			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
+			System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
 			System.out.println("------------------------------------------------------------------------------------------------------");
 			for(i=0; i<playerNum; i++){
 				if(players[i].getTeamName().equals("한화")){
@@ -555,7 +555,7 @@ public class player_msgControl implements player_msgControlInterface {
 		System.out.println("타자의 정보입니다.");
 		//NO#선수명#팀명#포지션#경기#타석#타수#안타#홈런#득점#타점#볼넷#삼진#도루
 		System.out.println("------------------------------------------------------------------------------------------------------");
-		System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
+		System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 경기\t 타석\t 타수\t 안타\t 홈런\t 득점\t 타점\t 볼넷\t 삼진\t 도루\n");
 		System.out.println("------------------------------------------------------------------------------------------------------");
 				
 		for(i=0; i<playerNum ; i++){
@@ -569,11 +569,11 @@ public class player_msgControl implements player_msgControlInterface {
 	@Override
 	public void printBatter(player p) {
 		// TODO Auto-generated method stub
-		System.out.printf("%d\t %s\t %s\t %s\t\t %d\t %d\t %d\t %d\t %d\t %d\t %d\t %d\t %d\t %d\n",
+		System.out.printf("%d\t %s\t %s\t %s\t %d\t %d\t %d\t %d\t %d\t %d\t %d\t %d\t %d\t %d\n",
 				((batter)p).getId(),
 				((batter)p).getPlayName(),
 				((batter)p).getTeamName(),
-				((batter)p).getPosition(),
+				((batter)p).getPositionKorean(),
 				((batter)p).getGameNumber(),
 				((batter)p).getPlateAppearance(),
 				((batter)p).getAtBat(),
@@ -597,7 +597,7 @@ public class player_msgControl implements player_msgControlInterface {
 		System.out.println("투수의 정보입니다.");
 		//NO#선수명#팀명#포지션#승#패#세이브#홀드#블론#경기#선발#이닝#삼진#볼넷#홈런
 		System.out.println("------------------------------------------------------------------------------------------------------");
-		System.out.printf("ID\t 선수명\t 팀명\t 포지션\t\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
+		System.out.printf("ID\t 선수명\t 팀명\t 포지션\t 승\t 패\t 세이브\t 홀드\t 블론\t 경기\t 선발\t 이닝\t 삼진\t 볼넷\t 홈런\n");
 		System.out.println("------------------------------------------------------------------------------------------------------");
 		
 		for(i=0; i<playerNum ; i++){
@@ -611,11 +611,11 @@ public class player_msgControl implements player_msgControlInterface {
 	@Override
 	public void printPitcher(player p) {
 		// TODO Auto-generated method stub
-		System.out.printf("%d\t %s\t %s\t %s\t\t %d\t %d\t %d\t %d\t %d\t %d\t %d\t %.3f\t %.3f\t %.3f\t %.3f\n",
+		System.out.printf("%d\t %s\t %s\t %s\t %d\t %d\t %d\t %d\t %d\t %d\t %d\t %.3f\t %.3f\t %.3f\t %.3f\n",
 				((pitcher)p).getId(),
 				((pitcher)p).getPlayName(),
 				((pitcher)p).getTeamName(),
-				((pitcher)p).getPosition(),
+				((pitcher)p).getPositionKorean(),
 				((pitcher)p).getWinningNumber(),
 				((pitcher)p).getLosingNumber(),
 				((pitcher)p).getSave(),

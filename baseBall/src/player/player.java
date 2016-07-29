@@ -19,7 +19,16 @@ public class player implements Serializable {
 	public static void setSize(int size) {
 		player.size = size;
 	}
+	//
+	
 	protected int id;
+	public POSITION_INFO_KOREAN getPositionKorean() {
+		return positionKorean;
+	}
+	public void setPositionKorean(POSITION_INFO_KOREAN positionKorean) {
+		this.positionKorean = positionKorean;
+	}
+
 	protected String playName;
 	protected String teamName;
 	protected int gameNumber;
@@ -34,6 +43,9 @@ public class player implements Serializable {
 		this.teamName = teamName;
 		this.gameNumber = gameNumber;
 		this.position = position;
+		POSITION_INFO pos[] = POSITION_INFO.values();
+		POSITION_INFO_KOREAN posk[] = POSITION_INFO_KOREAN.values();
+		positionKorean = posk[position.ordinal()];
 		this.id = inx;
 		this.size++;
 		this.inx++;
@@ -46,6 +58,7 @@ public class player implements Serializable {
 		this.teamName = p.teamName;
 		this.gameNumber = p.gameNumber;
 		this.position = p.position;
+		this.positionKorean = p.positionKorean;
 	}
 
 	public int getId() {
