@@ -19,7 +19,7 @@ public class player implements Serializable {
 	public static void setSize(int size) {
 		player.size = size;
 	}
-	
+//asd;	   
 	protected int id;
 	protected String playName;
 	protected String teamName;
