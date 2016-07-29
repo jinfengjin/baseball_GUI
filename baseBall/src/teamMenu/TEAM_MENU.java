@@ -1,0 +1,12 @@
+package teamMenu;
+
+public enum TEAM_MENU {
+
+	MENU_QUIT,
+	TEAM_FILE_OPEN,
+	TEAM_PRINT,
+	TEAM_COMPARE,
+	TEAM_MODIFY,
+	TEAM_DELETE,
+	TEAM_INSERT
+}
